@@ -1,7 +1,7 @@
-import 'package:ever_salon/provider/my%20booking/my_booking_provider.dart';
-import 'package:ever_salon/provider/profile/language_provider.dart';
-import 'package:ever_salon/provider/profile/theme_provider.dart';
-import 'package:ever_salon/screen/auth/splash/splash_screen.dart';
+import 'package:ever_salon/Customer%20Panel/provider/my%20booking/my_booking_provider.dart';
+import 'package:ever_salon/Customer%20Panel/provider/profile/language_provider.dart';
+import 'package:ever_salon/Customer%20Panel/provider/profile/theme_provider.dart';
+import 'package:ever_salon/Customer%20Panel/screen/auth/splash/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';

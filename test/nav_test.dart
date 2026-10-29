@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:ever_salon/screen/auth/auth%20screens/login_screen.dart';
+import 'package:ever_salon/Customer%20Panel/screen/auth/auth%20screens/login_screen.dart';
 
 void main() {
-  testWidgets('login screen taps Login -> MainScreen without error', (tester) async {
+  testWidgets('login screen taps Login -> MainScreen without error', (
+    tester,
+  ) async {
     tester.view.physicalSize = const Size(390, 844);
     tester.view.devicePixelRatio = 1.0;
     addTearDown(tester.view.reset);

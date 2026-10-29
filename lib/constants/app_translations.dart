@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import '../provider/profile/language_provider.dart';
+import '../Customer Panel/provider/profile/language_provider.dart';
 
 class AppTranslations {
   AppTranslations._();

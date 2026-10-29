@@ -45,6 +45,7 @@ dependencies:
   intl: 
   qr_flutter:
   image_picker:
+  mobile_scanner: ^7.4.2
 
 dev_dependencies:
   flutter_test:
